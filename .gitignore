@@ -8,3 +8,5 @@ __pycache__
 venv
 Video
 Face
+.env
+.github/workflows
