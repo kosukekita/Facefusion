@@ -8,5 +8,6 @@ __pycache__
 venv
 Video
 Face
+Output
 .env
 .github/workflows
